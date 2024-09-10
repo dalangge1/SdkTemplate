@@ -1,4 +1,4 @@
-dotnet tool install --global openapigenerator.cli --prerelease
+dotnet tool install --global autosdk.cli --prerelease
 
 oag init \
   SolutionName \
